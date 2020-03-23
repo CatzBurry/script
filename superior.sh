@@ -43,6 +43,7 @@ echo -e ""
 echo -e "${CLR_BLD_RED}Checking if Bringuped Properly...${CLR_RST}"
 echo -e ""
 . build/envsetup.sh
+export SUPERIOR_OFFICIAL=true
 lunch superior_X01BD-userdebug
 echo -e ""
 echo -e "${CLR_BLD_RED}Cloning Building Script...${CLR_RST}"
