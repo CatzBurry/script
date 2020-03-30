@@ -25,7 +25,7 @@ echo -e ""
 echo -e "${CLR_BLD_GRN}Setting-up Users info...${CLR_RST}"
 echo -e ""
 git config --global user.email "jayantdeshmuk008@gmail.com"
-git config --global user.name "Jayant Deshmukh"
+git config --global user.name "Jayant-Deshmukh"
 git config --global alias.cp 'cherry-pick -s'
 git config --global alias.c 'commit -s'
 echo -e ""
